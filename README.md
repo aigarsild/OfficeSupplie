@@ -38,7 +38,7 @@ For example toggle function can be used anywhere on the site by adding correct c
 
 ### Fixes for next version
 For a bigger size project it will be better to create more global elements that can be placed anywhere on the site without writing more css or js.
-
+This prototype was only tested in latest chrome browser. It will need some fixes for other browsers.
 
 ### Install
 1. Clone repository
